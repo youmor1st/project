@@ -14,12 +14,6 @@ const Header = () => (
                 <li><Link to="/about">Авторлар туралы</Link></li>
             </ul>
         </nav>
-        <div className="search-container">
-            <form action="/search" method="get">
-                <input type="text" placeholder="Іздеу..." name="q" />
-                <button type="submit">Табу</button>
-            </form>
-        </div>
     </header>
 );
 
