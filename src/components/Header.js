@@ -11,7 +11,6 @@ const Header = () => (
                 <li><Link to="/module2">Бағдарламалармен жұмыс</Link></li>
                 <li><Link to="/module3">Файлдармен жұмыс</Link></li>
                 <li><Link to="/module4">Интернет-браузерлер</Link></li>
-                <li><Link to="/about">Авторлар туралы</Link></li>
             </ul>
         </nav>
     </header>
